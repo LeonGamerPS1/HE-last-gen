@@ -14,6 +14,7 @@
 
 # Libraries #
 --library blueprint
+--library moonchart
 
 # Compile, copy assets, and run. #
 --cpp bin/cpp

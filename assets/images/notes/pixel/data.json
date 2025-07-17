@@ -1,0 +1,12 @@
+{
+    "scale": 6,
+    "antialiasing":false,
+    "sheets": {
+        "strums":"arrows-pixels",
+        "notes":"notes",
+        "holds":"arrowEndsNew"
+    },
+    "noteoffset":[0,0],
+    "susOffset":[46,46],
+    "lineOffset":[50,25]
+}

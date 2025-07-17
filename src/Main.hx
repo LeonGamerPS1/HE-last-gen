@@ -5,6 +5,6 @@ class Main {
 
 	public static function main():Void {
 		// Width, Height, Scene (Class, not Scene instance)
-		game = new Game(1280, 720, 'Hyper Engine LG (Last Gen)', Title);
+		game = new Game(1280, 720, 'Hyper Engine LG (Last Gen)', PlayState);
 	}
 }

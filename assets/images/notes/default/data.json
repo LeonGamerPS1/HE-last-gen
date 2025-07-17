@@ -1,0 +1,12 @@
+{
+    "scale": 0.7,
+    "antialiasing":true,
+    "sheets": {
+        "strums":"noteStrumline",
+        "notes":"notes",
+        "holds":"NOTE_hold_assets"
+    },
+    "noteoffset":[25,25],
+    "susOffset":[30,5],
+    "lineOffset":[25,0]
+}
